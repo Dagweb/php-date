@@ -1,0 +1,10 @@
+{
+  "Invalid Format": {
+    "inputFormat": "Invalid Date Format",
+    "inputDateString": "2025-01-01"
+  },
+  "Invalid Date String": {
+    "inputFormat": "Y-m-d",
+    "inputDateString": "Invalid Date Format"
+  }
+}

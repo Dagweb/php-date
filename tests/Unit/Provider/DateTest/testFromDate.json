@@ -1,0 +1,6 @@
+{
+  "Test From Date Object": {
+    "inputDate": "2025-01-01",
+    "expectedDate": "2025-01-01"
+  }
+}

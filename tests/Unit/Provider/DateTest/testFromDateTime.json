@@ -1,0 +1,6 @@
+{
+  "Test From DateTime Object": {
+    "inputDateTime": "2025-01-01T12:34:56+00:00",
+    "expectedDate": "2025-01-01"
+  }
+}

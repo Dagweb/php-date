@@ -1,0 +1,7 @@
+{
+  "Test Create From Format": {
+    "inputFormat": "Y-m-d H:i:s",
+    "inputDateString": "2025-01-01 12:34:56",
+    "expectedDate": "2025-01-01"
+  }
+}
