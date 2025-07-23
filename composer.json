@@ -1,7 +1,7 @@
 {
   "name": "dagweb/php-date",
   "description": "Package for managing Dates, extension of DateTime without caring about time.",
-  "type": "project",
+  "type": "library",
   "license": "GPL-3.0-only",
   "minimum-stability": "stable",
   "prefer-stable": true,
